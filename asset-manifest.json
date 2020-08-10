@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pathfinding-deploy/static/css/main.763868f3.chunk.css",
+    "main.js": "/pathfinding-deploy/static/js/main.c7537e25.chunk.js",
+    "main.js.map": "/pathfinding-deploy/static/js/main.c7537e25.chunk.js.map",
+    "runtime-main.js": "/pathfinding-deploy/static/js/runtime-main.584ae0e1.js",
+    "runtime-main.js.map": "/pathfinding-deploy/static/js/runtime-main.584ae0e1.js.map",
+    "static/js/2.893d3fd0.chunk.js": "/pathfinding-deploy/static/js/2.893d3fd0.chunk.js",
+    "static/js/2.893d3fd0.chunk.js.map": "/pathfinding-deploy/static/js/2.893d3fd0.chunk.js.map",
+    "index.html": "/pathfinding-deploy/index.html",
+    "precache-manifest.ae933a8de4b46bd5ad317b287cc11bf5.js": "/pathfinding-deploy/precache-manifest.ae933a8de4b46bd5ad317b287cc11bf5.js",
+    "service-worker.js": "/pathfinding-deploy/service-worker.js",
+    "static/css/main.763868f3.chunk.css.map": "/pathfinding-deploy/static/css/main.763868f3.chunk.css.map",
+    "static/js/2.893d3fd0.chunk.js.LICENSE.txt": "/pathfinding-deploy/static/js/2.893d3fd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.584ae0e1.js",
+    "static/js/2.893d3fd0.chunk.js",
+    "static/css/main.763868f3.chunk.css",
+    "static/js/main.c7537e25.chunk.js"
+  ]
+}
