@@ -1,0 +1,14 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    font-weight: bold;
+    font-family: cursive ;
+}
+
+.button {
+}
